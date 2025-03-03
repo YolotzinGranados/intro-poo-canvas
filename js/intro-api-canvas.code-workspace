@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../intro-api-canvas"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intro-poo-canvas"
+	}
+}
